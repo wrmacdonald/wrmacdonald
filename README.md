@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Wes!
 
 ### 🧑‍💻 About Me:
-- 🔭 I’m currently interning with Bell Automation Systems in a Full Stack Intern position.
-- 🌱 I’m currently learning AWS, Puppeteer, ElasticSearch, & a smattering of other things.
+- 🔭 I’m currently working on Application Development & Machine Learning @ HTI.
+- 🌱 I’m focused on AWS, ML, Python, open source & a smattering of other things.
 - 😄 I love gardening, cooking, all things coffee & cocktails, & agave!
 
 ### 💻 Skills:
